@@ -4,7 +4,6 @@ contador = 3
 priSeq = 0
 segSeq = 1
 
-
 print(f'{priSeq} -> {segSeq}', end='')
 while contador <= numero:
     tercSeq = priSeq + segSeq
